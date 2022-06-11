@@ -1,1 +1,15 @@
+Goals
 
+Given a time of day (and maybe some other features, including weather), predict how crowded the gym will be.
+Figure out which features are actually important, which are redundant, and what features could be added to make the predictions more accurate.
+
+Data
+
+The dataset consists of 26,000 people counts (about every 10 minutes) over the last year.
+In addition, I gathered extra info including weather and semester-specific information that might affect how crowded it is.
+The label is the number of people, which I'd like to predict given some subset of the features.
+
+Here the problem is of regression type so we are going to use linear regression as our basline model, 
+followed by decision tree regressor, randomforest regressor and Xgboost regressor.
+We will train and test on all of them, once with original data and after Box Cox transformation.
+Here I will carry out PCA on Box Cox Transformed data as it has better accuracy and compare all the results. 
