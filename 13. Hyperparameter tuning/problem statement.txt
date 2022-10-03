@@ -1,5 +1,8 @@
 Problem Statement :
 
+The datset is available on kaggle at this link
+https://www.kaggle.com/datasets/dileep070/logisticregression-telecomcustomer-churmprediction
+
 "You have a telecom firm which has collected data of all its customers"
 The main types of attributes are :
 

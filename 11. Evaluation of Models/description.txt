@@ -1,2 +1,10 @@
 Models once prepared need to be evaluated for their overall performance. 
 This tutorial file corresponds to thse evaluation methods and a comparision of performance of various ML models is shown.
+
+the datasets used here are available on kaggle at these links:
+
+Crowd at Gym Data:
+https://www.kaggle.com/datasets/nsrose7224/crowdedness-at-the-campus-gym
+
+Titanic Dataset:
+https://www.kaggle.com/datasets/yasserh/titanic-dataset

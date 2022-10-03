@@ -1,1 +1,7 @@
+K means Clustering
 
+the dataset is available on kaggle at this link
+https://www.kaggle.com/code/thebrownviking20/cars-k-means-clustering-script/data
+
+The dataset contains details of various cars. 
+Apply an Unsupervised Algorithm to find meaningful clusters in the data.

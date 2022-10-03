@@ -1,5 +1,8 @@
 LOGISTIC REGRESSION
 
+The datset is available on kaggle at this link
+https://www.kaggle.com/datasets/dileep070/logisticregression-telecomcustomer-churmprediction
+
 Problem Statement :
 
 "You have a telecom firm which has collected data of all its customers"

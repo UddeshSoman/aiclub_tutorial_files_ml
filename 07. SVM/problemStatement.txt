@@ -1,0 +1,6 @@
+SVM Classifier
+
+The dataset is available in GitHub Repo.
+
+Problem Description
+From the given dataset create and evaluate a classifier using SVM.

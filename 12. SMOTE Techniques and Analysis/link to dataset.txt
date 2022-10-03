@@ -1,1 +1,6 @@
+The dataset is available at Kaggle at this link:
+
 https://www.kaggle.com/code/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets/data
+
+
+Follow the Tutorial to know various SMOTE techniques.

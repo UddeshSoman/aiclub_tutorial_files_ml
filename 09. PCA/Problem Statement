@@ -4,6 +4,11 @@ Given a time of day (and maybe some other features, including weather), predict 
 Figure out which features are actually important, which are redundant, and what features could be added to make the predictions more accurate.
 
 Data
+the datasets used here are available on kaggle at these links:
+
+Crowd at Gym Data:
+https://www.kaggle.com/datasets/nsrose7224/crowdedness-at-the-campus-gym
+
 
 The dataset consists of 26,000 people counts (about every 10 minutes) over the last year.
 In addition, I gathered extra info including weather and semester-specific information that might affect how crowded it is.
