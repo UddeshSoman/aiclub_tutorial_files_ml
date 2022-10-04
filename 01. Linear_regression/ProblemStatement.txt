@@ -1,4 +1,4 @@
-The dataset corrsponds to various features of cars andtheir prices.
+The dataset corrsponds to various features of cars and their prices.
 Create a Linear Regression model to predict prices.
 Models Used :  Linear Regression
 
